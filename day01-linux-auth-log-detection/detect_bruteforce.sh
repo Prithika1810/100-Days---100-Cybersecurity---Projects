@@ -8,4 +8,4 @@ grep "Failed password" $LOG \
 | awk '{print $(NF-3)}' \
 | sort \
 | uniq -c \
-| awk -v t=$THRESHOLD '$1 > t {print $2 " - " $1 " attempts"}'
+| awk -v t=$THRESHOLD '$1 > t {print $2 " = " $1 " attempts"}'
