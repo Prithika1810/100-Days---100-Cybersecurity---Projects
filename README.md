@@ -21,6 +21,10 @@ Each day includes:
 | 05 | File Hashing + Malware Detection | [Day-05-Hashing-Malware-Analysis-Detection](Day-05-Hashing-Malware-Analysis-Detection) |
 | 06 | Malware Identification | [Day-06-Malware-Identification](Day-06-Malware-Identification) |
 | 07 | Linux Privilege Escalation SUID Basics | [Day-07-Linux-Privilege-Escalation-(SUID Basics)](Day-07-Linux-Privilege-Escalation-(SUID Basics)) |
+| 07 | Linux Privilege Escalation – SUID Basics | [Day-07-Linux-Privilege-Escalation-(SUID Basics)](Day-07-Linux-Privilege-Escalation-(SUID Basics)) |
+
+
+
 
 ---
 
