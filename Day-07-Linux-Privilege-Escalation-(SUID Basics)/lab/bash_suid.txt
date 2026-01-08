@@ -1,0 +1,3 @@
+# This represents the SUID-enabled bash binary created in Kali:
+# sudo cp /bin/bash ./bash_suid
+# sudo chmod 4755 bash_suid
