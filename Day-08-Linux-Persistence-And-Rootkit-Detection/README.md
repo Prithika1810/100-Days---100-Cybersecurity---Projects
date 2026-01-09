@@ -132,7 +132,7 @@ lsmod
 - Modules that should not be loaded on your system  
 - Signs of kernel-level tampering  
 
-Your output showed normal modules with no anomalies.
+output showed normal modules with no anomalies.
 
 ---
 
@@ -162,4 +162,4 @@ Use this table to document your results clearly:
 
 ## ✅ Completion Status
 Day 08 is fully completed.  
-You successfully performed persistence checks, rootkit scans, integrity verification, and kernel module analysis — all essential DFIR skills that strengthen your Linux security foundation.
+successfully performed persistence checks, rootkit scans, integrity verification, and kernel module analysis — all essential DFIR skills that strengthen your Linux security foundation.
