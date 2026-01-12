@@ -140,10 +140,3 @@ sudo apt update && sudo apt upgrade
 
 ---
 
-# 📌 Why This Project Matters  
-- Shows your comfort with Linux  
-- Demonstrates core cybersecurity fundamentals  
-- Perfect for beginners and recruiters  
-- Clean, simple, and instantly useful  
-
----
