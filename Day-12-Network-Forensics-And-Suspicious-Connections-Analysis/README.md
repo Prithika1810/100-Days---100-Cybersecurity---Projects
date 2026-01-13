@@ -1,4 +1,4 @@
-# Day 12 — Linux Network Forensics & Suspicious Connections Analysis
+# Day 12 — Network Forensics And Suspicious Connections Analysis
 
 This module focuses on identifying and analysing active network listeners on a Linux system.  
 The goal is to map open ports to running processes, investigate the associated binaries,  
