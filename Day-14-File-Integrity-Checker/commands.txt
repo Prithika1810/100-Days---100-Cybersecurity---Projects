@@ -1,0 +1,11 @@
+# Run the script
+python3 integrity_checker.py
+
+# Test file creation
+echo "hello" > testfile.txt
+
+# Modify file to simulate tampering
+echo "malicious change" >> testfile.txt
+
+# Run script again to detect change
+python3 integrity_checker.py
