@@ -1,0 +1,11 @@
+# Audit rule to monitor changes to /etc/passwd
+-w /etc/passwd -p wa -k passwd_watch
+
+# Monitor execution of chmod
+-a always,exit -F path=/usr/bin/chmod -F perm=x -k chmod_exec
+
+# Monitor execution of chown
+-a always,exit -F path=/usr/bin/chown -F perm=x -k chown_exec
+
+# Monitor execution of sudo
+-a always,exit -F path=/usr/bin/sudo -F perm=x -k sudo_exec
