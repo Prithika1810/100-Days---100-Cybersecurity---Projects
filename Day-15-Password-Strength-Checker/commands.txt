@@ -1,0 +1,14 @@
+# Run the script
+python3 password_checker.py
+
+# Test with weak password
+password
+
+# Test with moderate password
+Hello123
+
+# Test with strong password
+Hello@2024!
+
+# Test with very strong password
+Prithika#Cyber$2025
