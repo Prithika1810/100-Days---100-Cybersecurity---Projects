@@ -1,4 +1,4 @@
-# 🐧 Linux Commands Every Cybersecurity Student Should Know (46–60)
+# 🐧 Linux Commands Every Cybersecurity Student Should Know 
 
 These commands strengthen  skills in networking, system auditing, permissions, and troubleshooting.
 
