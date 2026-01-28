@@ -1,4 +1,4 @@
-# Day 24 – Recently Modified Files Audit
+# Day 23 – Recently Modified Files Audit
 
 ## 🔍 Objective
 Identify files that were modified recently on the system.  
