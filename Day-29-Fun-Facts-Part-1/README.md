@@ -1,4 +1,4 @@
-# 😂 Day 29 – Cybersecurity Fun Facts
+#  Day 29 – Cybersecurity Fun Facts
 
 For Day 29 of my 100‑Day Cybersecurity Challenge, I decided to take a fun and relaxed approach by collecting five interesting cybersecurity facts. These are light, surprising, and great for anyone curious about the history and quirks of the cyber world.
 
